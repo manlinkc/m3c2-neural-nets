@@ -1,4 +1,4 @@
-# M3C2 : Neural Networks
+# M3C2 Coursework 2: Neural Networks
 
 Project 2: ‘Neural Networks’ completed for ‘High Performance Computing’ module.
 
